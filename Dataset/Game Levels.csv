@@ -1,7 +1,3 @@
-Level,Speed vs. Quality Trade-off (SvQ),No. of Rounds,Tasks per Round,Average Worker Agent Productivity Output Rate
-1,1,5,20,100.00%
-2,-1,5,20,100.00%
-3,1,5,30,90.00%
-4,-1,5,30,90.00%
-5,1,10,30,80.00%
-6,-1,10,30,80.00%
+version https://git-lfs.github.com/spec/v1
+oid sha256:26eeb6b43f5710e4cd969d527759c20114146cc480a37fc905205cd032b8063a
+size 219
